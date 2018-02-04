@@ -1,5 +1,11 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
-# IntelliJ
-
-/.idea
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+/.idea/modules.xml
+/.idea/pluralsigh-angular-unit-testing.iml
+/.idea/workspace.xml
+.idea
+.pdf
+pdf
+*.7z
